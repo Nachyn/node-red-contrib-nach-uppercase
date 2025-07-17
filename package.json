@@ -1,5 +1,5 @@
 {
-    "name" : "node-red-contrib-example-lower-case",
+    "name" : "node-red-contrib-nach-uppercase",
     "node-red" : {
         "nodes": {
             "upper-case": "upper-case.js"
